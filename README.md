@@ -1,7 +1,7 @@
 # UEHRI
 
 ## Scripts to extract feature from bag files.
-```python
+```
 usage: export_audiovideo_timestamps.py [-h] -i INPUT [-o OUTPUT] [-f FPS]
 
 Export audio-video from rosbag files and synchronize them using timestamps in a single video
