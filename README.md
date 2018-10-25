@@ -1,4 +1,4 @@
-# UEHRI
+# UE-HRI
 
 ## Scripts to extract feature from bag files.
 ```
