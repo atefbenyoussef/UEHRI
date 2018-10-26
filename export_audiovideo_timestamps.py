@@ -1,5 +1,13 @@
 #! /usr/bin/env python2.7
 # -*- encoding: UTF-8 -*-
+"""
+export_audiovideo_timestamps.py
+Export audio-videos from rosbag file and concatenate them in a single video.
+Note: sox, avconv and ffmpeg should be installed in your system.
+
+Created by Atef Ben-Youssef <atef.benyoussef@telecom-paristech.fr> on 2017-06-12.
+Copyright (c) 2018 ACT. All rights reserved.
+"""
 
 import argparse
 import contextlib
