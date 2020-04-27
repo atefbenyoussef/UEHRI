@@ -1,4 +1,6 @@
 # UE-HRI
+UE-HRI is a dataset collected for the study of user engagement in spontaneous Human-Robot Interactions (HRI).
+http://www.tsi.telecom-paristech.fr/aao/en/2017/05/18/ue-hri-dataset/
 
 ## Scripts to extract feature from bag files.
 ```
